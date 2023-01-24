@@ -1,0 +1,15 @@
+INPUT BODY
+"{ ""model"": ""text-davinci-edit-001"", ""input"": ""What day of the wek is it?"", ""instruction"": ""Fix the spelling mistakes""}"
+
+RESPONSE
+@"{""object"":""edit"",""created"":1674567459,""choices"":[{""text"":""What day of the week is it? \n"",""index"":0}],""usage"":{""prompt_tokens"":25,""completion_tokens"":29,""total_tokens"":54}}
+"
+
+
+TEXT
+@"What day of the week is it? \n"",""index"":0}],""usage"":{""prompt_tokens"":25,""completion_tokens"":29,""total_tokens"":54}}
+"
+
+TEXT2
+"What day of the week is it?\n\""
+
